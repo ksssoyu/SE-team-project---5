@@ -62,39 +62,16 @@
 
 **3.1 로그인 및 회원가입**
 ![Login Sequence](./images/sequence_login.png)
+![Signup Sequence](./images/sequence_signup.png)
 
 **3.2 이슈 생성 및 조회**
 ![Issue Sequence](./images/sequence_issue.png)
 
 ### 4. Class Diagram
 > 시스템의 정적 구조와 클래스 간의 관계를 설계했다.
-![Class Diagram](./images/class_diagram.png)
+![Class Diagram1](./images/class_diagram1.png)
+![Class Diagram2](./images/class_diagram2.png)
 
 <br>
-
-## 📸 Screenshots & Scenarios
-
-### 🔐 Authentication
-| 로그인 화면 | 회원가입 화면 | 비밀번호 찾기 |
-|:---:|:---:|:---:|
-| ![Login](./images/login.png) | ![Signup](./images/signup.png) | ![FindPW](./images/findpw.png) |
-
-### 👤 Role-Based Scenarios
-
-#### 1. Admin Scenario
-> 프로젝트 생성 및 사용자(Team Member) 배정 과정이다.
-![Admin Scenario](./images/admin_screen.png)
-
-#### 2. Tester Scenario
-> 버그 발견 후 이슈 등록(New) 및 내가 등록한 이슈를 조회하는 화면이다.
-![Tester Scenario](./images/tester_screen.png)
-
-#### 3. PL (Project Leader) Scenario
-> 등록된 이슈를 확인한 뒤 개발자를 배정(Assigned)하고 상태를 변경한다.
-![PL Scenario](./images/pl_screen.png)
-
-#### 4. Developer Scenario
-> 자신에게 배정된 이슈를 확인하고 코멘트를 작성하여 해결 과정을 공유한다.
-![Dev Scenario](./images/dev_screen.png)
 
 <br>
