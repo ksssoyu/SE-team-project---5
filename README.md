@@ -74,4 +74,65 @@
 
 <br>
 
+## 📸 Screenshots & Scenarios
+
+### 🔐 Authentication
+| 로그인 화면 | 회원가입 화면 | 비밀번호 찾기 |
+|:---:|:---:|:---:|
+| ![Login](./images/login.png) | ![Signup](./images/signup.png) | ![FindPW](./images/findpw.png) |
+
+### 👤 Role-Based Scenarios
+
+#### 1. Admin Scenario
+> 프로젝트 생성 및 Team Member 배정 과정이다.
+> 
+|  |  |  |
+|:---:|:---:|:---:|
+| ![Admin_screen1](./images/admin_screen1.png) | ![Admin_screen2](./images/admin_screen2.png) | ![Admin_screen3](./images/admin_screen3.png) |
+| ![Admin_screen4](./images/admin_screen4.png) | ![Admin_screen5](./images/admin_screen5.png) | ![Admin_screen6](./images/admin_screen6.png) |
+| ![Admin_screen7](./images/admin_screen7.png) | ![Admin_screen8](./images/admin_screen8.png) |  |
+
+#### 2. Tester Scenario
+> 버그 발견 후 이슈 등록(New) 및 내가 등록한 이슈를 조회하는 화면이다.
+
+**이슈 등록**
+|  |  |  |
+|:---:|:---:|:---:|
+| ![Tester_screen1](./images/tester_screen1.png) | ![Tester_screen2](./images/tester_screen2.png) | ![Tester_screen3](./images/tester_screen3.png) |
+| ![Tester_screen4](./images/tester_screen4.png) | |  |
+
+**이슈 조회**
+|  |  |  |
+|:---:|:---:|:---:|
+| ![Browse1](./images/browse1.png) | ![Browse2](./images/browse2.png) |
+| ![Browse_tester1](./images/browse_tester1.png) | ![Browse_tester2](./images/browse_tester2.png) |
+
+#### 3. PL (Project Leader) Scenario
+> 등록된 이슈를 확인한 뒤 개발자를 배정(Assigned)하고 상태를 변경한다.
+
+|  |  |  |
+|:---:|:---:|:---:|
+| ![Pl_screen1](./images/pl_screen1.png) | ![Pl_screen2](./images/pl_screen2.png) | ![Pl_screen3](./images/pl_screen3.png) |
+| ![Pl_screen4](./images/pl_screen4.png) | ![Pl_screen5](./images/pl_screen5.png) | ![Pl_screen6](./images/pl_screen6.png) |
+| ![Pl_screen7](./images/pl_screen7.png) | ![Pl_screen8](./images/pl_screen8.png) | ![Pl_screen9](./images/pl_screen9.png) |
+
+#### 4. Developer Scenario
+> 자신에게 배정된 이슈를 확인하고 코멘트를 작성하여 해결 과정을 공유한다.
+
+|  |  |  |
+|:---:|:---:|:---:|
+| ![Dev_screen1](./images/dev_screen1.png) | ![Dev_screen2](./images/dev_screen2.png) | 
+
+#### 5. Issue Details
+
+|  |  |  |
+|:---:|:---:|:---:|
+| ![Issue1](./images/issue1.png) | ![Issue2](./images/issue2.png) | ![Issue3](./images/issue3.png) |
+
+#### 6. Comments
+
+|  |  |  |
+|:---:|:---:|:---:|
+| ![Comment1](./images/comment1.png) | ![Comment2](./images/comment2.png) |
+
 <br>
