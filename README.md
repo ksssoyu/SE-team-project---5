@@ -98,8 +98,8 @@
 **이슈 등록**
 |  |  |  |
 |:---:|:---:|:---:|
-| ![Tester_screen1](./images/tester_screen1.png) | ![Tester_screen2](./images/tester_screen2.png) | ![Tester_screen3](./images/tester_screen3.png) |
-| ![Tester_screen4](./images/tester_screen4.png) | |  |
+| ![Tester_screen1](./images/tester_screen1.png) | ![Tester_screen2](./images/tester_screen2.png) |
+|  ![Tester_screen3](./images/tester_screen3.png) | ![Tester_screen4](./images/tester_screen4.png) |
 
 **이슈 조회**
 |  |  |  |
